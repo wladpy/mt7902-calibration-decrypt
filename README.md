@@ -1,10 +1,5 @@
 # MediaTek MT7902 Calibration Files Decryption
 
-**Public decryption** of MediaTek MT7902/MT7922/MT7921 calibration DAT files
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-
 ##  Overview
 
 This project provides the public documentation of the encryption algorithm used in MediaTek WiFi driver calibration files (mtkwl*.dat). These files contain TX power limits and RF calibration data essential for the WiFi chip to operate correctly.
