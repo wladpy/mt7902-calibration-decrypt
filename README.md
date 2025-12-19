@@ -1,6 +1,6 @@
 # MediaTek MT7902 Calibration Files Decryption
 
-**First public decryption** of MediaTek MT7902/MT7922/MT7921 calibration DAT files
+**Public decryption** of MediaTek MT7902/MT7922/MT7921 calibration DAT files
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
